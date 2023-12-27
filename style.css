@@ -1,0 +1,36 @@
+.carousel-item img {
+    height: 94vh;
+}
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.379);
+    width: 100%;
+    left: 0;
+}
+.text-justify{
+    text-align: justify;
+}
+#service {
+    background-image: url("../IMG/3.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+    #header_contact_page {
+        background-image: url(../IMG/1.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 50px;
+        font-size: 30px;
+    }
+    .title-page {
+        width: 75%;
+        border: 2px solid whitesmoke;
+        border-radius: 10px;
+        background-color: rgba(0, 0, 0, 0.659);
+        color: aliceblue;
+        text-align: center;
+        padding: 50px;
+        margin: 0 auto;
+
+    }
